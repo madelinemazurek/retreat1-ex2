@@ -14,6 +14,6 @@ Make sure to include a quick description about your team.
 
 Links to each team member's bio page. Add a link for each team member.
 
-[Madeline Mazurek](/madelinemazurek.md)
+[Madeline Mazurek](https://github.com/madelinemazurek)
 [Tyler Thain](https://github.com/Tyler-Thain)
 
